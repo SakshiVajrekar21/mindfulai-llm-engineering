@@ -3,3 +3,4 @@ __pycache__/
 .env
 mindfulai-lora-adapter/
 *.zip
+REPORT_NOTES.md
