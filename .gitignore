@@ -1,6 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
 .env
-mindfulai-lora-adapter/
 *.zip
 REPORT_NOTES.md
